@@ -1,0 +1,15 @@
+site_name: Some Clicker Documentation
+
+pages:
+    - Home: 'index.md'
+    - Modding:
+        - 'Modding Overview': 'modding/modding.md'
+        - 'Step 1. Setting Up the Workspace': 'modding/step1/workspace.md'
+        - Step 2:
+            - 'Step 2.1. Main Mod Class': 'modding/step2/modClass.md'
+            - 'Step 2.2. Shop Items': 'modding/step2/shopItems.md'
+            - 'Step 2.3. Extra Game Logic': 'modding/step2/gameLogic.md'
+            - 'Step 2.4. Variable Refrence': 'modding/step2/refrence.md'
+        - 'Step 3. Adding Your Mod to the Game': 'modding/step3/adding.md'
+        - 'Step 4. Installing Your Mod': 'modding/step4/installing.md'
+    - FAQ: faq.md

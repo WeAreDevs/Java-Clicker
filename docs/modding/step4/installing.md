@@ -1,0 +1,1 @@
+To Install your mod to the game, navigate to `%appdata%/WeAreDevs/someclicker/mods/` by pressing the Windows Key + R. and typing `%appdata%`, navigating to the `WeAreDevs/someclicker/mods/` folder and place your jar file there. The game will handle the rest of it. 
